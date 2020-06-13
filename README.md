@@ -3,6 +3,14 @@ vasscan is a python tool to scan targets using openVAS through the command line.
 
 ### Author : KittyTechnoProgrammer 
 
+### Setup:
+- Install requirments
+`'$ pip3 install -r requirments.txt`
+- set chmod
+`$ chmod +x vasscan.py`
+- Run
+`$ ./vasscan.py`
+
 ### Features
 
 - openVAS scan of targets
@@ -15,3 +23,5 @@ vasscan is a python tool to scan targets using openVAS through the command line.
 
 ### License
 - GPL 3
+
+
